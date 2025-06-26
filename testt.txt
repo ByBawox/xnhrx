@@ -1,0 +1,177 @@
+<settings version="2">
+    <setting id="portal_name_1" default="true">NahroİpTv 1-2026</setting>
+    <setting id="portal_url_1">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_1">true</setting>
+    <setting id="portal_mac_1">00:1A:79:5F:E1:55</setting>
+    <setting id="send_serial_1" default="true">false</setting>
+    <setting id="custom_serial_1" default="true">false</setting>
+    <setting id="serial_number_1" default="true" />
+    <setting id="device_id_1" default="true" />
+    <setting id="device_id2_1" default="true" />
+    <setting id="signature_1" default="true" />
+
+    <setting id="portal_name_2" default="true">NahroİpTv 2-2026</setting>
+    <setting id="portal_url_2">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_2">true</setting>
+    <setting id="portal_mac_2">00:2A:01:92:79:DF</setting>
+    <setting id="send_serial_2" default="true">false</setting>
+    <setting id="custom_serial_2" default="true">false</setting>
+    <setting id="serial_number_2" default="true" />
+    <setting id="device_id_2" default="true" />
+    <setting id="device_id2_2" default="true" />
+    <setting id="signature_2" default="true" />
+
+    <setting id="portal_name_3" default="true">NahroİpTv 3-2026</setting>
+    <setting id="portal_url_3">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_3">true</setting>
+    <setting id="portal_mac_3">00:2A:01:90:70:12</setting>
+    <setting id="send_serial_3" default="true">false</setting>
+    <setting id="custom_serial_3" default="true">false</setting>
+    <setting id="serial_number_3" default="true" />
+    <setting id="device_id_3" default="true" />
+    <setting id="device_id2_3" default="true" />
+    <setting id="signature_3" default="true" />
+
+   <setting id="portal_name_4" default="true">NahroİpTv 4-2026</setting>
+    <setting id="portal_url_4">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_4">true</setting>
+    <setting id="portal_mac_4">00:2A:01:92:78:56</setting>
+    <setting id="send_serial_4" default="true">false</setting>
+    <setting id="custom_serial_4" default="true">false</setting>
+    <setting id="serial_number_4" default="true" />
+    <setting id="device_id_4" default="true" />
+    <setting id="device_id2_4" default="true" />
+    <setting id="signature_4" default="true" />
+
+    <setting id="portal_name_5" default="true">NahroİpTv 5-2026</setting>
+    <setting id="portal_url_5">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_5">true</setting>
+    <setting id="portal_mac_5">00:2A:01:90:55:EB</setting>
+    <setting id="send_serial_5" default="true">false</setting>
+    <setting id="custom_serial_5" default="true">false</setting>
+    <setting id="serial_number_5" default="true" />
+    <setting id="device_id_5" default="true" />
+    <setting id="device_id2_5" default="true" />
+    <setting id="signature_5" default="true" />
+
+    <setting id="portal_name_6" default="true">NahroİpTv 6-2026</setting>
+    <setting id="portal_url_6">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_6">true</setting>
+    <setting id="portal_mac_6">00:2A:01:90:52:15</setting>
+    <setting id="send_serial_6" default="true">false</setting>
+    <setting id="custom_serial_6" default="true">false</setting>
+    <setting id="serial_number_6" default="true" />
+    <setting id="device_id_6" default="true" />
+    <setting id="device_id2_6" default="true" />
+    <setting id="signature_6" default="true" />
+
+   <setting id="portal_name_7" default="true">NahroİpTv 7-2026</setting>
+    <setting id="portal_url_7">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_7">true</setting>
+    <setting id="portal_mac_7">00:2A:01:91:20:3A</setting>
+    <setting id="send_serial_7" default="true">false</setting>
+    <setting id="custom_serial_7" default="true">false</setting>
+    <setting id="serial_number_7" default="true" />
+    <setting id="device_id_7" default="true" />
+    <setting id="device_id2_7" default="true" />
+    <setting id="signature_7" default="true" />
+
+   <setting id="portal_name_8" default="true">NahroİpTv 8-2026</setting>
+    <setting id="portal_url_8">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_8">true</setting>
+    <setting id="portal_mac_8">00:2A:01:90:EA:9C</setting>
+    <setting id="send_serial_8" default="true">false</setting>
+    <setting id="custom_serial_8" default="true">false</setting>
+    <setting id="serial_number_8" default="true" />
+    <setting id="device_id_8" default="true" />
+    <setting id="device_id2_8" default="true" />
+    <setting id="signature_8" default="true" />
+
+    <setting id="portal_name_9" default="true">NahroİpTv 9-2026</setting>
+    <setting id="portal_url_9">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_9">true</setting>
+    <setting id="portal_mac_9">00:2A:01:90:4D:CB</setting>
+    <setting id="send_serial_9" default="true">false</setting>
+    <setting id="custom_serial_9" default="true">false</setting>
+    <setting id="serial_number_9" default="true" />
+    <setting id="device_id_9" default="true" />
+    <setting id="device_id2_9" default="true" />
+    <setting id="signature_9" default="true" />
+
+    <setting id="portal_name_10" default="true">NahroİpTv 10-2026</setting>
+    <setting id="portal_url_10">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_10">true</setting>
+    <setting id="portal_mac_10">00:2A:01:91:6F:DD</setting>
+    <setting id="send_serial_10" default="true">false</setting>
+    <setting id="custom_serial_10" default="true">false</setting>
+    <setting id="serial_number_10" default="true" />
+    <setting id="device_id_10" default="true" />
+    <setting id="device_id2_10" default="true" />
+    <setting id="signature_10" default="true" />
+
+    <setting id="portal_name_11" default="true">NahroİpTv 11-2026</setting>
+    <setting id="portal_url_11">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_11">true</setting>
+    <setting id="portal_mac_11">00:2A:01:91:1B:2D</setting>
+    <setting id="send_serial_11" default="true">false</setting>
+    <setting id="custom_serial_11" default="true">false</setting>
+    <setting id="serial_number_11" default="true" />
+    <setting id="device_id_11" default="true" />
+    <setting id="device_id2_11" default="true" />
+    <setting id="signature_11" default="true" />
+
+    <setting id="portal_name_12" default="true">NahroİpTv 12-2026</setting>
+    <setting id="portal_url_12">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_12">true</setting>
+    <setting id="portal_mac_12">00:2A:01:90:EB:97</setting>
+    <setting id="send_serial_12" default="true">false</setting>
+    <setting id="custom_serial_12" default="true">false</setting>
+    <setting id="serial_number_12" default="true" />
+    <setting id="device_id_12" default="true" />
+    <setting id="device_id2_12" default="true" />
+    <setting id="signature_12" default="true" /> 
+
+    <setting id="portal_name_13" default="true">NahroİpTv 13-2025</setting>
+    <setting id="portal_url_13">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_13">true</setting>
+    <setting id="portal_mac_13">A0:BB:3E:C3:E4:94</setting>
+    <setting id="send_serial_13" default="true">false</setting>
+    <setting id="custom_serial_13" default="true">false</setting>
+    <setting id="serial_number_13" default="true" />
+    <setting id="device_id_13" default="true" />
+    <setting id="device_id2_13" default="true" />
+    <setting id="signature_13" default="true" />
+
+    <setting id="portal_name_14" default="true">NahroİpTv 14-2025</setting>
+    <setting id="portal_url_14">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_14">true</setting>
+    <setting id="portal_mac_14">00:2A:01:92:0C:8A</setting>
+    <setting id="send_serial_14" default="true">false</setting>
+    <setting id="custom_serial_14" default="true">false</setting>
+    <setting id="serial_number_14" default="true" />
+    <setting id="device_id_14" default="true" />
+    <setting id="device_id2_14" default="true" />
+    <setting id="signature_14" default="true" />
+
+    <setting id="portal_name_15" default="true">NahroİpTv 15-2025</setting>
+    <setting id="portal_url_15">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_15">true</setting>
+    <setting id="portal_mac_15">00:2A:01:90:E5:FB</setting>
+    <setting id="send_serial_15" default="true">false</setting>
+    <setting id="custom_serial_15" default="true">false</setting>
+    <setting id="serial_number_15" default="true" />
+    <setting id="device_id_15" default="true" />
+    <setting id="device_id2_15" default="true" />
+    <setting id="signature_15" default="true" />
+
+    <setting id="portal_name_16" default="true">NahroİpTv 16-2025</setting>
+    <setting id="portal_url_16">http://xc-clubtv.xyz:8080/c/</setting>
+    <setting id="custom_mac_16">true</setting>
+    <setting id="portal_mac_16">00:2A:01:92:09:FF</setting>
+    <setting id="send_serial_16" default="true">false</setting>
+    <setting id="custom_serial_16" default="true">false</setting>
+    <setting id="serial_number_16" default="true" />
+    <setting id="device_id_16" default="true" />
+    <setting id="device_id2_16" default="true" />
+    <setting id="signature_16" default="true" />
+</settings>
